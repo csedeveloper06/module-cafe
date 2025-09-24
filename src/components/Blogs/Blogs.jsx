@@ -12,7 +12,7 @@ const Blogs = () => {
   console.log(blogs);
 
   return (
-    <div>
+    <div className="md:w-2/3">
       <h2 className="text-2xl font-bold mb-4">Latest Blogs: {blogs.length}</h2>
     </div>
   );
