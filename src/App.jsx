@@ -1,7 +1,11 @@
+import Blogs from "./components/Blogs/Blogs";
+import Header from "./components/Header/Header";
+
 function App() {
   return (
     <div>
-      <h1 className="text-4xl font-bold bg-slate-100">Knowledge Cafe</h1>
+      <Header></Header>
+      <Blogs></Blogs>
     </div>
   );
 }

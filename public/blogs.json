@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React Hooks",
+    "cover": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=500",
+    "author": "Sarah Johnson",
+    "author_image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+    "posted_date": "2023-10-15",
+    "reading_time": 8,
+    "hashtags": ["react", "hooks", "javascript"]
+  },
+  {
+    "id": 2,
+    "title": "State Management with Redux Toolkit",
+    "cover": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=500",
+    "author": "Michael Chen",
+    "author_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "posted_date": "2023-10-12",
+    "reading_time": 12,
+    "hashtags": ["redux", "statemanagement", "react"]
+  },
+  {
+    "id": 3,
+    "title": "Building Responsive UIs with Tailwind CSS",
+    "cover": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=500",
+    "author": "Emma Rodriguez",
+    "author_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150",
+    "posted_date": "2023-10-08",
+    "reading_time": 10,
+    "hashtags": ["tailwind", "css", "responsive"]
+  },
+  {
+    "id": 4,
+    "title": "React Performance Optimization Techniques",
+    "cover": "https://images.unsplash.com/photo-1581276879432-15e50529f34b?w=500",
+    "author": "David Kim",
+    "author_image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "posted_date": "2023-10-05",
+    "reading_time": 15,
+    "hashtags": ["react", "performance", "optimization"]
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Next.js for React Developers",
+    "cover": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=500",
+    "author": "Lisa Wang",
+    "author_image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?w=150",
+    "posted_date": "2023-10-01",
+    "reading_time": 11,
+    "hashtags": ["nextjs", "react", "ssr"]
+  },
+  {
+    "id": 6,
+    "title": "Custom Hooks: Reusable Logic in React",
+    "cover": "https://images.unsplash.com/photo-1581276879432-15e50529f34b?w=500",
+    "author": "James Wilson",
+    "author_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "posted_date": "2023-09-28",
+    "reading_time": 9,
+    "hashtags": ["react", "hooks", "customhooks"]
+  },
+  {
+    "id": 7,
+    "title": "Testing React Components with Jest",
+    "cover": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=500",
+    "author": "Sophia Martinez",
+    "author_image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "posted_date": "2023-09-25",
+    "reading_time": 14,
+    "hashtags": ["testing", "jest", "react"]
+  },
+  {
+    "id": 8,
+    "title": "React Router v6: What's New",
+    "cover": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=500",
+    "author": "Robert Taylor",
+    "author_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "posted_date": "2023-09-20",
+    "reading_time": 7,
+    "hashtags": ["reactrouter", "routing", "react"]
+  },
+  {
+    "id": 9,
+    "title": "CSS-in-JS vs Traditional CSS in React",
+    "cover": "https://images.unsplash.com/photo-1581276879432-15e50529f34b?w=500",
+    "author": "Natalie Brown",
+    "author_image": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?w=150",
+    "posted_date": "2023-09-15",
+    "reading_time": 13,
+    "hashtags": ["css", "styling", "react"]
+  },
+  {
+    "id": 10,
+    "title": "Building Accessible React Applications",
+    "cover": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=500",
+    "author": "Daniel Lee",
+    "author_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "posted_date": "2023-09-10",
+    "reading_time": 10,
+    "hashtags": ["accessibility", "a11y", "react"]
+  }
+]

@@ -1,0 +1,21 @@
+import { useEffect, useState } from "react";
+
+const Blogs = () => {
+  const [blogs, setBlogs] = useState([]);
+
+  useEffect(() => {
+    fetch("blogs.json")
+      .then((res) => res.json())
+      .then((data) => setBlogs(data));
+  }, []);
+
+  console.log(blogs);
+
+  return (
+    <div>
+      <h2 className="text-2xl font-bold mb-4">Latest Blogs: {blogs.length}</h2>
+    </div>
+  );
+};
+
+export default Blogs;
